@@ -6,8 +6,9 @@ This application utilizes Tensorflow by Google to analyze facial features by cus
 Classifier is trained with a training set of 30,000 facial expression images.
 
 # Running the Demo
-The demo runs on python and utilizes the following dependencies.
-Make sure your tensorflow, opencv-python packages are installed.
+The demo runs on python and utilizes the following dependencies. \
+Make sure your tensorflow, opencv-python packages are installed. \
+\ If not, run the commands : pip install tensorflow\ pip install opencv-python
 
 ## Open CMD/Terminal and CD to git directory.
 Run the command: python cs_analyzer.py
