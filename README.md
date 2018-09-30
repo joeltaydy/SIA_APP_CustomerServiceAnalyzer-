@@ -1,5 +1,8 @@
 # SIA_APP_CustomerServiceAnalyzer-
-This is for demo submission for Singapore Airlines AppChallenge 2018. Team AKOV
+This is for demo submission for Singapore Airlines AppChallenge 2018. Team AKOV  
+Problem statement: Offloaded Passenger Compensation Process.  
+The analyzer attempts to address customer dissatisfaction at check-in to measure success (for service recovery) upon offloading. This supports the main objective to remove the negative relations that passengers have with being ”bumped off”.
+
 
 # Sample Demo
 This application utilizes Tensorflow by Google to analyze facial features by customers to deliver insight data as a KPI.\
