@@ -10,7 +10,7 @@ Classifier is trained with a training set of 30,000 facial expression images.
 
 # Running the Demo
 The demo runs on python and utilizes the following dependencies. \
-Make sure your tensorflow, opencv-python packages are installed. \
+Make sure your tensorflow, opencv-python packages are installed.  
   
 If not, run the commands : \
 pip install tensorflow \
