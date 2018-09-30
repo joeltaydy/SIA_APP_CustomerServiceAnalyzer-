@@ -1,4 +1,4 @@
-# SIA_APP_CustomerSmileRecognition-
+# SIA_APP_CustomerServiceAnalyzer-
 This is for demo submission for Singapore Airlines AppChallenge 2018. Team AKOV
 
 # Sample Demo
